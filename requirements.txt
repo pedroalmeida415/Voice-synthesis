@@ -1,6 +1,6 @@
 tensorflow==1.14.0
 tensorflow-gpu==1.14.0
-kapre==0.1.4
+kapre==0.1.3
 umap-learn
 visdom
 webrtcvad
